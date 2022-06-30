@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<meta http-equiv="X-Frame-Options" content="deny">
+## Statistics
+
+<p align="center">
+    <a href="#statistics">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=npat273&theme=noctis-minimus&hide_border=true" alt="npat273" />
+    </a>
+</p>
