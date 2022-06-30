@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="#statistics">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=npat273&theme=noctis-minimus&hide_border=true" alt="npat273" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadaviddd&theme=noctis-minimus&hide_border=true" alt="devadaviddd" />
     </a>
 </p>
