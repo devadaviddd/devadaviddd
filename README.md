@@ -1,6 +1,9 @@
-### Hi there 👋
+<p align="center" width="100%>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tuongkhangnguyen03?ext=activity)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/tuongkhangnguyen03?ext=activity)
+</p>
+
+
 <!--
 **devadaviddd/devadaviddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
