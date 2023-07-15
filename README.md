@@ -1,7 +1,5 @@
-<p align="center" width="100%>
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/tuongkhangnguyen03?ext=activity)
-</p>
 
 
 <!--
